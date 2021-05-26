@@ -1,1 +1,1 @@
-include ':app', ':library_qrscan'//, ':library_opencv'
+include ':app', ':library_qrscan', ':library_opencv'
